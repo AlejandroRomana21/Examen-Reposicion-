@@ -1,0 +1,74 @@
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #757f7f;
+
+	.btn-primary {
+		background-color: #000;
+		color: #fff;
+		
+	}
+
+	/* Crear la sección "hero", con la imagen y su contenido en dos columnas 
+	(el botón puede ser un estándar de bootstrap no personalizado), 
+	el color de fondo es #fafafa (3%) */
+/* Crear la clase "section" este debe contener un padding superior e inferior de 60px, este debe asignarlo a las <section> correspondientes de la página (2%) */
+	.hero.section {
+		.container {
+			padding: 60px 60px;
+			background-color: #fafafa;	
+		}
+	}
+
+	.titulo {
+		color: #04060c;
+		font-size: 50px;
+	}
+
+	.experience {
+		.container {
+			background-color: #fafafa;
+		}
+	}
+
+	.models {
+		.container {
+			background-color: #fafafa;
+			padding: 60px 0;
+			text-align: center;
+		}
+	}
+
+	footer {
+		background-color: #000000;
+		color: #adadad;
+	}
+}
+
+/* 
+
+Crear la clase "titulo" con color de letra #04060c, tamaño 50px, esta debe asignarse a cada etiqueta que corresponde al título de la sección. (2%)
+Crear la sección "experience" con la imagen y su contenido en dos columnas (el botón puede ser un estándar de bootstrap no personalizado)  (3%)
+Crear la sección "models" 4 columnas en PC, dos para tablet y una en celular, el color del fondo es #fafafa  (4%).
+Crear el footer de la página en color de fondo #000000 y color de texto #adadad, este debe contener su nombre completo en negrita y centrado. (1%)
+ */
+
+header{
+	background-color: #fff;
+	padding: 15px 0;
+	border-bottom: 1px solid #eee;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
